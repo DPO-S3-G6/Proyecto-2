@@ -1,0 +1,6 @@
+carro	marca	categoria	placa	color	capcidad	tamaño
+CLA 200	Mercedes Benz	Lujo	ZRQ 721	ROJO	2	PEQUEÑO
+C4 Cactus	Citroën	SUV	GWR 364	AZUL	5	MEDIANO
+Cruiser	Toyota	4X4	JER 515	BLANCO	4	GRANDE
+Golf	Völkswagen	Compacto	LMQ 905	NEGRO	5	PEQUEÑO
+T3	BYD	Vans	LAP390	VERDE	6	GRANDE
